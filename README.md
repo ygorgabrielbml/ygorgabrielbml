@@ -1,6 +1,6 @@
 ## Opa! Eu sou Ygor Brandão
 
-- 🔭 Hoje trabalho com backend
-- 🌱 Estudando Python, PLN, Java e Bancos de dados relacionais.
-- 😄 Pronomes: Ele/Dele
+- 🔭 Hoje trabalho com desenvolvimento IA.
+- 🌱 Estudando Análise de dados, PLN, APIs, Bancos de dados, Treinamento de modelos preditivos.
+- 😄 Idiomas - Inglês Avançado, Espanhol Básico.
 

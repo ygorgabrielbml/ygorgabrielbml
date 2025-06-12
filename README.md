@@ -1,6 +1,5 @@
 ## Opa! Eu sou Ygor Brandão
 
-- 🔭 Hoje trabalho com desenvolvimento IA.
-- 🌱 Estudando Análise de dados, PLN, APIs, Bancos de dados, Treinamento de modelos preditivos.
+- 🌱 Estudando Análise de dados, PLN, APIs, Bancos de dados, Treinamento de modelos preditivos e Client Side com PHP
 - 😄 Idiomas - Inglês Avançado, Espanhol Básico.
 
